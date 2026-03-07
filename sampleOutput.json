@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Lando Norris, Luke Littler and Lionesses up for Laureus World Sports Awards",
+            "description": "Lando Norris, Luke Littler and the England women's football team are among the nominees for this year's Laureus World Sports Awards with the winners to be announced in April.",
+            "url": "http://www.bbc.co.uk/sport/articles/cvg3qvqgw3wo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5082/live/8e36b430-1576-11f1-a582-31c179a7c5b4.jpg",
+            "publishedAt": "2026-03-03T11:22:23.5764661Z",
+            "content": "Barcelona women's midfielder Aitana Bonmati could repeat her 2024 success in the Sportswoman of the Year category after leading her club to a domestic treble and collecting a record-setting third-con… [+808 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "FIFA World Cup 2026 Broadcast Schedule: Record 70 Matches on FOX; 34 on FS1",
+            "description": "FOX Sports’ FIFA World Cup 2026 schedule is set to take over the summer airwaves with all 104 tournament matches airing live across FOX (70) and FS1 (34).",
+            "url": "https://www.foxsports.com/stories/soccer/fifa-world-cup-2026-broadcast-schedule-record-70-matches-fox-34-fs1",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/wc6.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-03T05:22:48.8168299Z",
+            "content": "A monumental event such as the 2026 FIFA World Cup merits a historic broadcast schedule. And now we are only 100 days from its arrival. \r\nFOX Sports FIFA World Cup 2026 schedule is set to take over t… [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Josh Fordham",
+            "title": "Manchester United release statement after journalists 'banned' from press conference",
+            "description": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.Sky Sports chief reporter Kaveh Solhekho",
+            "url": "https://talksport.com/football/1666142/man-utd-journalists-banned-press-conference-erik-ten-hag/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/228f511f-c84a-48e8-b067-5c7277d90984.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-12-05T12:12:06Z",
+            "content": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.\r\nSky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News' Samuel Luckhurs… [+2999 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+        }
+    ]
+}
