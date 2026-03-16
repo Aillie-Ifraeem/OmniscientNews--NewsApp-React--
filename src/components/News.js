@@ -18,7 +18,7 @@ static propTypes = {
 
   constructor(){
     super();  //you have to use this super word to use constructor of this class
-    console.log("hello i am constructor from news component");
+    //console.log("hello i am constructor from news component");
     //with this.state we can set state inside a constructor
     this.state = {
       articles: [],
@@ -85,13 +85,13 @@ static propTypes = {
   render() {
     return (
       <div className='container my-3'>
-        <h2>NewsMinion - Top Headlines</h2>
+        <h2><span style={{ fontWeight: 'bold'}}>OmniscientNews -Top Headlines</span></h2>
        {this.state.loading && <LoadingSpinner />}
         <div className="row">
           {!this.state.loading && ((this.state.articles || []).map((element)=>{
             
           return <div className="col-md-3 my-3" key={element.url}>
-                    <NewsItem  title={element.title ? element.title.slice(0, 45):""} description ={element.description ? element.description.slice(0, 88):""} Imageurl={element.urlToImage} newsUrl={element.url} />
+                    <NewsItem  title={element.title ? element.title.slice(0, 45):""} description ={element.description ? element.description.slice(0, 88):""} Imageurl={element.urlToImage} newsUrl={element.url} author = {element.author} date = {element.publishedAt} source = {element.source.name}/>
                   </div>
           }))}
 
