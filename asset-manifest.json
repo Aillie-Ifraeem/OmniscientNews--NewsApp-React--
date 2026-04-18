@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/css/main.e5a55caf.css",
+    "main.js": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/js/main.dc67b5b0.js",
+    "static/js/453.46c27d4a.chunk.js": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/js/453.46c27d4a.chunk.js",
+    "static/media/dual_spinner_fast.gif": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/media/dual_spinner_fast.bbd56d7bb88ed0d06541.gif",
+    "index.html": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/index.html",
+    "main.e5a55caf.css.map": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/css/main.e5a55caf.css.map",
+    "main.dc67b5b0.js.map": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/js/main.dc67b5b0.js.map",
+    "453.46c27d4a.chunk.js.map": "/Aillie-Ifraeem/OmniscientNews--NewsApp-React--/static/js/453.46c27d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a55caf.css",
+    "static/js/main.dc67b5b0.js"
+  ]
+}
